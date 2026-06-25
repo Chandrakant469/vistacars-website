@@ -1,0 +1,68 @@
+
+    #shadow {
+        background-color: #fff;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        margin-bottom: 20px;
+        border-radius: 8px;
+        overflow: hidden;
+    }
+
+    #maruti-post {
+        margin: 20px;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        padding: 10px;
+        margin-bottom: 0px;
+    }
+
+    #maruti-cars {
+        max-width: 1500px;
+    }
+
+    .car-part-list ul {
+        display: flex;
+    }
+
+    #engine {
+        margin-left: 40px;
+        margin-right: auto;
+        text-align: center;
+        margin-top: 8px;
+        margin-bottom: 0px;
+    }
+
+    #maruti-carousal {
+        margin-right: 10px;
+    }
+
+    /* Star rating colors */
+    .checked {
+        color: #FFD700;
+        /* Color for filled stars */
+    }
+
+    .starred {
+        color: #FF0000;
+        /* Color for low ratings (red) */
+    }
+
+    .staryellow {
+        color: #FFFF00;
+        /* Color for medium ratings (yellow) */
+    }
+
+    .stargreen {
+        color: #00FF00;
+        /* Color for high ratings (green) */
+    }
+
+    .fa-star-half-o {
+        position: relative;
+    }
+
+    .fa-star-o {
+        color: #d3d3d3;
+        /* Color for empty stars */
+    }

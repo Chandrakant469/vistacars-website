@@ -155,6 +155,59 @@ Special categories:
 ## 📸 Screenshots
 
 > Add screenshots of the Home Page, Featured Vehicles, Search Filters, Certified Vehicles, and Login Page here.
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Home Page](screenshots/home.png)
+
+---
+
+### 🚗 Featured Vehicles
+
+![Featured Vehicles](screenshots/featured_vehical.png)
+
+---
+
+### ✨ Car Just Like New
+
+![Car Just Like New](screenshots/just_like_cars.png)
+
+---
+
+### ✅ VistaCars Certified Vehicles
+
+![Certified Vehicles](screenshots/vistacars_certified_cars.png)
+
+---
+
+### 🏢 Welcome to AutoVista
+
+![Welcome](screenshots/welcome_to_autovista.png)
+
+---
+
+### 🚙 Top Cars
+
+![Top Cars](screenshots/top_cars.png)
+
+---
+
+### 🌍 Select City
+
+![Select City](screenshots/select_city.png)
+
+---
+
+### 🤝 Our Partners
+
+![Partners](screenshots/our_partners.png)
+
+---
+
+### 🔐 Login with OTP
+
+![Login](screenshots/login_with_otp.png)
 
 ---
 

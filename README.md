@@ -227,4 +227,4 @@ Special categories:
 
 **Chandrakant**
 
-PHP Developer | CodeIgniter | MySQL | JavaScript | Bootstrap
+PHP Developer | Laravel | MySQL | JavaScript | Bootstrap
